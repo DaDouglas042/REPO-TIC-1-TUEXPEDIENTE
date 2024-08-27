@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Ejemplo</title>
+</head>
+<body>
+    <!-- Título principal -->
+    <h1>Bienvenido a mi página web</h1>
+
+    <!-- Párrafo de texto -->
+    <p>Esta es una página de ejemplo creada en HTML. Aquí puedes incluir cualquier contenido que desees, como texto, imágenes, enlaces, y más.</p>
+
+    <!-- Imagen con un texto alternativo -->
+    <img src="ejemplo.jpg" alt="Imagen de ejemplo" width="300">
+
+    <!-- Enlace a otra página -->
+    <p>Visita <a href="https://example.com">este enlace</a> para más información.</p>
+</body>
+</html>
